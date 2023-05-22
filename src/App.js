@@ -5,6 +5,7 @@ import data from "./data/data.json";
 
 
 //Merge or to call Card component in App.js component
+//Added comment here
 const App=()=>{
     return(
         <section className="pricing py-5">
